@@ -20,6 +20,6 @@ A core component of all three strategies is the use of the **Augmented Dickey-Fu
 To run these backtests locally, clone the repository and install the dependencies:
 
 ```bash
-git clone [https://github.com/YOUR-USERNAME-HERE/fx-adf-quant-strategies.git](https://github.com/YOUR-USERNAME-HERE/fx-adf-quant-strategies.git)
+git clone [https://github.com/wilsonng27/fx-adf-quant-strategies.git](https://github.com/wilsonng27/fx-adf-quant-strategies.git)
 cd fx-adf-quant-strategies
 pip install -r requirements.txt
