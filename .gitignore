@@ -1,0 +1,12 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Data and Outputs (keeps the repo clean)
+*.xlsx
+backtest_outputs/
+backtest_outputs_2/
+backtest_outputs_rsi2/
+.DS_Store
